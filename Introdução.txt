@@ -7,5 +7,10 @@ O que é ?
     A relação entre o TypeScript e o JavaScript pode ser vista como semelhante a do scss e o css
     E uma linguagem fortemente tipada
 Porque usar?
+    Apos se acostumar a usar aumenta sua produtividade
+    Permite que sua IDE seja mais inteligente por exemplo, apontando erros e mostrando opções com autoComplete
+    Permite que você identifique erros em tempo de compilação ao inves de em tempo de execução
+    Curva de aprendizado reduzida visto que ele usa a sintaxe de JavaScript e é possivel adotar o TypeScript de forma parcial e gradativa
+    Traz recursos extras que não existem nativamente no JavaScript como tuplas enums melhor suporte a POO,etc
 Quando usar?
 
