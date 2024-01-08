@@ -1,1 +1,11 @@
-O que é o typeScript?
+    O que é o TypeScript e porque usar?
+O que é ?
+    typeScript e JavaScript com sintaxe de tipos
+    E uma linguagem de programação
+    E um supersetmdem JavaScript ou seja e uma linguagem construida em cima do JavaScript
+    Todo codigo JavaScript valido e codigo TypeScript Valido
+    A relação entre o TypeScript e o JavaScript pode ser vista como semelhante a do scss e o css
+    E uma linguagem fortemente tipada
+Porque usar?
+Quando usar?
+
