@@ -17,3 +17,5 @@ Quando usar?
     Por ser um superSet do JavaScript e importante que você ja tenha um bom conhecimento deste
     Mesmo em um projeto escrito com TypeScript e preciso saber quando usar suas funcionalidades
 
+Proxima aula 9
+
