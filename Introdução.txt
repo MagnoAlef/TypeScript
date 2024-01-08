@@ -2,7 +2,7 @@
 O que é ?
     typeScript e JavaScript com sintaxe de tipos
     E uma linguagem de programação
-    E um supersetmdem JavaScript ou seja e uma linguagem construida em cima do JavaScript
+    E um superSet de JavaScript ou seja e uma linguagem construida em cima do JavaScript
     Todo codigo JavaScript valido e codigo TypeScript Valido
     A relação entre o TypeScript e o JavaScript pode ser vista como semelhante a do scss e o css
     E uma linguagem fortemente tipada
@@ -13,4 +13,7 @@ Porque usar?
     Curva de aprendizado reduzida visto que ele usa a sintaxe de JavaScript e é possivel adotar o TypeScript de forma parcial e gradativa
     Traz recursos extras que não existem nativamente no JavaScript como tuplas enums melhor suporte a POO,etc
 Quando usar?
+    TypeScript e especialmente vantajoso em projetos grandes
+    Por ser um superSet do JavaScript e importante que você ja tenha um bom conhecimento deste
+    Mesmo em um projeto escrito com TypeScript e preciso saber quando usar suas funcionalidades
 
